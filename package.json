@@ -6,13 +6,12 @@
     "id": "cordova-sqlite-storage",
     "platforms": [
       "android",
-      "ios",
-      "windows"
+      "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/litehelpers/Cordova-sqlite-storage.git"
+    "url": "https://github.com/jumplee/Cordova-sqlite-storage.git"
   },
   "keywords": [
     "sqlite",
