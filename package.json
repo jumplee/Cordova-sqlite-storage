@@ -10,11 +10,6 @@
       "windows"
     ]
   },
-  "engines": {
-    "cordovaDependencies": {
-      "2.0.0": { "cordova-windows": ">4.4.1" }
-    }
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/litehelpers/Cordova-sqlite-storage.git"
@@ -23,8 +18,7 @@
     "sqlite",
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-ios",
-    "cordova-windows"
+    "cordova-ios"
   ],
   "author": "various",
   "license": "MIT",
